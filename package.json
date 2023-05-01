@@ -4,7 +4,7 @@
   "description": "API using Node js to build thorough understanding of Authentication using JWT",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
