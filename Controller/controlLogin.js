@@ -45,11 +45,11 @@ const user_login = async (req, res) => {
     }
   } catch (err) {
     res.status(500).json({
-      message: `Error logging in: ${err.message}`
+      message: `Error logging in: ${err.message}`,
     });
   }
 };
 
 module.exports = {
-  user_login
-}
+  user_login,
+};
