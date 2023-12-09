@@ -1,5 +1,5 @@
-# Authentication-API-using-JWT
-Node js API built to ensure Authentication and protection of desired routes using JWT
+# Backend of Password saver application
+These APIs have all the endpoints required for successfully posting, deleting, editing, getting, and searching passwords. Additionally, they have authentication and authorization to protect the routes
 
 ## `Follow these instructions to run the API successfully`
 
