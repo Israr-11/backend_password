@@ -35,7 +35,6 @@ const user_login = async (req, res) => {
       res.status(200).json({
         message: "Successfully logged in",
         user,
-        token,
       });
     } else {
       // return error response if email or password is incorrect
